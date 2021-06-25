@@ -6,8 +6,26 @@ body{
 .header-main{
     color: white;
     font-weight: normal;
+    font-size: 50px;
 }
 .link-ctn{
     font-size: 16px;
     color:aquamarine;
 }
+
+.header-sec{
+    font-weight: 300;
+    color:white;
+    font-size: 42px;
+}
+.header-third{
+    color:gray;
+    font-size: 21px;
+}
+footer{
+    text-align: right;
+    color: gray;
+    font-size:25px;
+
+}
+
